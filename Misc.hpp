@@ -1,4 +1,4 @@
-// Misc.h
+// Misc.hpp
 #pragma once
 
 #include <random>
