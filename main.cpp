@@ -4,8 +4,8 @@
 #include <string>
 #include <ctime>
 
-#include "DoublyLinkedList.h"
-#include "Misc.h"
+#include "DoublyLinkedList.hpp"
+#include "Misc.hpp"
 
 using namespace std;
 
